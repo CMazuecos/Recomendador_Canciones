@@ -1,5 +1,5 @@
 # Recomendador_Canciones
-Este programa consistirá en que el programa recomendará al usuario dos canciones al usuario. Hay dos formas de recomendación, en primer lugar, en base a un artista y en segundo lugar, en base a un género. Posteriormente, al usuario se le pedirá un input a partir del cual el programa hará una búsqueda de canciones. De todas las canciones relacionadas a la búsqueda, se devolverá, la canción más popular relacionada con la búsqueda y, en caso de haber otras canciones, se cogerá una random.
+Este programa recomendará al usuario dos canciones al usuario. Hay dos formas de recomendación, en primer lugar, en base a un artista y en segundo lugar, en base a un género. Posteriormente, al usuario se le pedirá un input a partir del cual el programa hará una búsqueda de canciones. De todas las canciones relacionadas a la búsqueda, se devolverá, la canción más popular relacionada con la búsqueda y, en caso de haber otras canciones, se cogerá una random.
 ### Archivos necesitados
 - 'top_10.csv': archivo csv con todos los datos de las canciones.
 - 'Recomendador_canciones.py': programa python que hace la recomendación.
