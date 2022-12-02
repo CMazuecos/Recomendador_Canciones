@@ -3,6 +3,7 @@ Este programa consistirá en que el programa recomendará al usuario dos cancion
 ### Archivos necesitados
 - 'top_10.csv': archivo csv con todos los datos de las canciones.
 - 'Recomendador_canciones.py': programa python que hace la recomendación.
+- 'requirements.txt': contiene todos las librerías necesarias para el correcto funcionamiento del programa.
 ### Outputs
 - 2 canciones recomendadas con la búsqueda del usuario.
 ### Forma de ejecución
